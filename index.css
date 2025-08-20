@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 0px;
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color:burlywood;
+  margin: 0px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+ul {
+  list-style: lower-roman;
+  text-align: center;
+  margin: auto;
+  width: fit-content;
+  padding-right: -20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.check{
+  margin-bottom: 10px;
+}
+
+.heading{
+  color: black;
+  margin-top: 80px;
+
+  margin: 20px;
+  margin-bottom: 20px;
+}
+
+.myphoto{
+  width: 450px;
+  margin: 20px;
+}
+
+.snslist{
+  padding-top: 0px;
+  list-style: none;
+  display: flex;
+}
+
+.list1{
+  margin-right: 10px;
+}
+
+.list2 {
+  margin-right: 10px;
+}
+
+.list3 {
+  margin-right: 10px;
+}
+
+.ye{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
