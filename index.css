@@ -49,6 +49,7 @@ ul {
 
 .list1{
   margin-right: 10px;
+  transform: scale(-1,1);
 }
 
 .list2 {
